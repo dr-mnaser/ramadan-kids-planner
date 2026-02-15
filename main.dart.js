@@ -98704,7 +98704,7 @@ var $async$$0=A.D(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:p=q.a.d
 p.toString
 s=2
-return A.r(A.a8g(A.fM(p,0,null)),$async$$0)
+return A.r(A.a8g(A.fM("assets/"+p,0,null)),$async$$0)
 case 2:return A.A(null,r)}})
 return A.B($async$$0,r)},
 $S:10}
@@ -99167,7 +99167,7 @@ $0(){var s=0,r=A.C(t.H),q=this,p,o
 var $async$$0=A.D(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:o=q.a.d
 o.toString
-p=A.fM(o,0,null)
+p=A.fM("assets/"+o,0,null)
 s=4
 return A.r(A.aLc(p),$async$$0)
 case 4:s=b?2:3
@@ -99189,7 +99189,7 @@ var $async$$0=A.D(function(a,b){if(a===1)return A.z(b,r)
 for(;;)switch(s){case 0:p=q.a.d
 p.toString
 s=2
-return A.r(A.a8g(A.fM(p,0,null)),$async$$0)
+return A.r(A.a8g(A.fM("assets/"+p,0,null)),$async$$0)
 case 2:return A.A(null,r)}})
 return A.B($async$$0,r)},
 $S:10}
